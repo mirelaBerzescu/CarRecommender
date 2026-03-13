@@ -239,3 +239,4 @@ The architecture integrates:
 - neural reranking
 
 This approach significantly improves recommendation relevance compared to traditional search methods.
+
