@@ -221,6 +221,7 @@ uvicorn app:app --reload
 
 ```
 cd car-ui/src
+npm install
 npm start
 ```
 
